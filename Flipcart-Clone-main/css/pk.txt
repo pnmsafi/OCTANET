@@ -1,0 +1,451 @@
+<footer>
+	<div class="main-footer">
+		<div class="footer1">
+			<div class="pic1">
+				<div class="pic11">
+					<img src="C:\Users\prash\Pictures\222.png" size height="50" width="50"></img>
+				</div>
+				<div class="text11"> 
+					<p class="text-1">100% Secure Payment</p>
+					<p class="text-2">Moving your card details to a much more</p>
+					<p class="text-2">secured place</p>
+				</div>
+			</div>
+			<div class="pic1">
+				<div class="pic11">
+					<img src="C:\Users\prash\Pictures\333.png" size height="50" width="50"></img>
+				</div>
+				<div class="text11"> 
+					<p class="text-1">TRUSTPAY</p>
+					<p class="text-2">100% payment protection.</p>
+					<p class="text-2">Return Policy</p>
+				</div>
+			</div>
+			<div class="pic1">
+				<div class="pic11">
+					<img src="C:\Users\prash\Pictures\111.jpg" size height="50" width="50"></img>
+				</div>
+				<div class="text11"> 
+					<p class="text-1">HELP CENTER</p>
+					<p class="text-2">Got a question? Lookno further.</p>
+					<p class="text-2">Browse our FAQs or submit your query here.</p>
+				</div>
+			</div>
+			<div class="pic1">
+				<div class="pic11">
+					<img src="C:\Users\prash\Pictures\444.png" size height="50" width="50"></img>
+				</div>
+				<div class="text11"> 
+					<p class="text-1">SHOP ON THE GO</p>
+					<p class="text-2">Download tha app and get exciting</p>
+					<p class="text-2">app only offers at your fingertips</p>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>		
+		
+	<div class="detail">
+		<div class="detail1">	
+			<div class="footer2">
+				<div class="footer22">
+					<div class="foot"><ul>
+						<li><h4>POLICY INFO</h4></li> </br>
+						<li>Privacy Policy</li>
+						<li>Terms of Sale</li>
+						<li>Terms of Use</li>
+						<li>Report Abuse </li>
+					</ul></div>
+					<div class="foot"><ul>
+						<li><h4>COMPANY</h4></li> </br>
+						<li>Privacy Policy</li>
+						<li>Terms of Sale</li>
+						<li>Terms of Use</li>
+						<li>Report Abuse </li>
+					</ul></div>
+					<div class="foot"><ul>
+						<li><h4>SNAPDEAL BUSINESS</h4></li> </br>
+						<li>Privacy Policy</li>
+						<li>Terms of Sale</li>
+						<li>Terms of Use</li>
+						<li>Report Abuse </li>
+					</ul></div>
+					<div class="foot"><ul>
+						<li><h4>NEED HELP ?</h4></li> </br>
+						<li>Privacy Policy</li>
+						<li>Terms of Sale</li>
+						<li>Terms of Use</li>
+						<li>Report Abuse </li>
+					</ul></div>
+					<div class="foot1">
+						<h3 class="h4">SUBSCRIBE</h3> </br>
+						<form>
+							<input id="Subscibe-bar" type="text" name="search-box" placeholder="your email address" size="30px" maxlength""50" ></input>
+							<button>SUBSCRIBE</button>
+						</form>
+						<p>Register now to get updates on promotions and </br> coupons.   Or Download App </p>
+					</div>
+					<div class="clear"></div>
+				</div>	
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	<div class="footer033">
+		<div class="footer0033">
+			<div class="footer3">
+				<div class="f1">
+					<p>PAYMENT</p>
+					<ul>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\0001.jpg" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\0002.jpg" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\0003.png" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\0004.png" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\0005.png" ></img></a></li>
+				</div></ul>
+				<div class="f2">
+					<p>CONNECT</p>
+					<ul>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\001.jpg" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\002.png" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\003.jpg" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\004.jpg" ></img></a></li>
+					<li><a href="#"><img src="C:\Users\prash\Pictures\005.jpg" ></img></a></li>
+				</div></ul>
+			<div class="clear"></div>
+			</div>
+		</div>
+	</div>	
+		
+	<div class="about">
+		<div class="about0">
+			<div class="about00">
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>HOME: </a>	
+					<li>4G moblie</li>
+					<li>laptop</li>
+					<li>computer</li>
+					<li>microphone</li>
+					<li>iphone</li>
+					<li>imax</li>
+					<li>lava</li>
+					<li>samsung</li>
+					<li>oppo</li>
+					<li>vivo</li>
+					<li>mcat</li>
+					<li>google</li>
+					<li>facebook</li>
+					<li>iphone</li>
+					<li>vivo Mobile </li>
+					<li>oppo Mobile</li>
+					<li>intex Mobile</li>
+					<li>Asus Mobiles</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Mobiles Accessories: </a>
+					<li>4G moblie1</li>
+					<li>laptop1</li>
+					<li>computer1</li>
+					<li>microphone1</li>
+					<li>iphone1</li>
+					<li>imax1</li>
+					<li>lava1</li>
+					<li>samsung1</li>
+					<li>oppo1</li>
+					<li>vivo1</li>
+					<li>mcat1</li>
+					<li>google1</li>
+					<li>facebook1</li>
+					<li>10000mAh Power Banks </li>
+					<li>Smart Bands</li>
+					<li>Fitness Bands</li>
+					<li>Tempered Glass</li>
+					<li>wall Chargers</li>
+					<li>Feature Phones</li>
+					<li>Bluetooth devices</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>TVs, Audio & Video: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>3D TV</li>
+					<li>FHD TV</li>
+					<li>LED TV</li>
+					<li>LCD TV</li>
+					<li>Ultra HD TV</li>
+					<li>Headphones</li>
+					<li>Earphones</li>
+					<li>Home Theatre Systems</li>
+				</ul>
+				</div>
+				
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Computers: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>Hooded Sweatshirts</li>
+					<li>facebook2</li>
+					<li>Round Neck T shirts</li>
+					<li>V Neck T shirts</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Camera: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>Hooded Sweatshirts</li>
+					<li>V Neck T shirts</li>
+					<li>Round Neck T shirts</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Watches: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li> Milton Kitchenware</li>
+					<li> Hawkins Kitchenware</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Fashion Accessories: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li> Milton Kitchenware</li>
+					<li> Hawkins Kitchenware</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Men's Clothing: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Women's Clothing: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>Kids Bedding</li>
+					<li>facebook2</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Home & Kitchen: </a>
+					<li>4G moblie2</li>
+					<li>Kids Bedding</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>Copper Water Bottles</li>
+					<li>Baby Care Products</li>
+					
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Books: </a>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>Girls Frocks & Junpsuits</li>
+					<li>Girls Frocks</li>
+					<li> Multi Speed Bi-cycles</li>
+					<li>Baby Care Products</li>
+					<li>Copper Water Bottles</li>
+					<li> Men's Sportswear</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Home Furnishing: </a>
+					<li>Bed Sheets</li>
+					<li>Bed Linen</li>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>Girls Frocks & Junpsuits</li>
+					<li>Girls Frocks</li>
+					<li> Multi Speed Bi-cycles</li>
+					<li>Baby Care Products</li>
+					<li>Copper Water Bottles</li>
+					<li> Men's Sportswear</li>
+				</ul>
+				</div>
+				<div class="about1">
+				<ul class="about1ul" >
+					<a>Furniture Online: </a>
+					<li>XXXL Bean Bags </li>
+					<li>Bed Sheets</li>
+					<li>Bed Linen</li>
+					<li>4G moblie2</li>
+					<li>laptop2</li>
+					<li>computer2</li>
+					<li>microphone2</li>
+					<li>microphone2</li>
+					<li>iphone2</li>
+					<li>imax2</li>
+					<li>lava2</li>
+					<li>samsung2</li>
+					<li>oppo2</li>
+					<li>vivo2</li>
+					<li>mcat2</li>
+					<li>mcat2</li>
+					<li>google2</li>
+					<li>facebook2</li>
+					<li>Girls Frocks & Junpsuits</li>
+					<li>Girls Frocks</li>
+					<li> Multi Speed Bi-cycles</li>
+					<li>Baby Care Products</li>
+					<li>Copper Water Bottles</li>
+					<li> Men's Sportswear</li>
+				</ul>
+				</div>
+			</div>
+			
+			<div class="about-snapdeal">
+				<div class="about-snapdeal1">
+					<h2>ABOUT SNAPDEAL</h2>
+					</br>
+					<p>About Snapdeal – India’s Ultimate Online Shopping Site Snapdeal’s vision is to create India’s most reliable and frictionless commerce ecosystem that creates life-changing experiences for buyers and sellers. In February 2010, Kunal Bahl along with Rohit Bansal, started Snapdeal.com- India’s largest online shopping marketplace, with the widest assortment of 35 million plus products across 800 plus diverse categories from over 125,000 regional, national, and international brands and retailers. With millions of users and more than 300,000 sellers, Snapdeal is the online shopping site for Internet users across the country, delivering to 6000+ cities and towns in India. In its journey till now, Snapdeal has partnered with several global marquee investors and individuals such as SoftBank, BlackRock, Temasek, Foxconn, Alibaba, eBay Inc., Premji Invest, Intel Capital, Bessemer Venture Partners, Mr. Ratan Tata, among others. Online Shopping – A Boon The trend of online shopping is becoming a household name and so is Snapdeal. Snapdeal is the preferred choice of hundreds of thousands of online shoppers given its mammoth assortment of 15 million+ products, quick delivery even to the remotest corners of the country, and daily deals, discounts & offers to make products available at slashed down prices to our valuable customers. Get Started! Shop Online Today at Snapdeal If you have been missing out on all the fun of online shopping thinking it requires one to be a technology aficionado then we have good news for you. Shopping online particularly at Snapdeal is a child’s play; all you need is a mobile phone or laptop or tablet with Internet connection to get started. Simply log into Snapdeal.com and browse through the wide assortment of products across categories. Once you have zeroed in on your favorite products, simply place the order by filling in the details; the products will be delivered right at your doorstep. Fulfill Your Entrepreneurial Dreams! Sell Today at Snapdeal Thanks to easy-to-understand, flexible policies and SD Advisors to help sellers at each step, anyone from a manufacturer to wholesaler to retailer can sell on Snapdeal. Begin your entrepreneurial journey with Snapdeal as a seller by filling a simple registration form here. Once the registration process is done, you can start selling your products to the entire country by sitting at your home or office. Doesn't it sound thrilling? Of course, it is and the excitement will build up with every order you receive! Start selling at Snapdeal today and see your business reach staggering heights. Shop on the Go – Install Snapdeal App Today! You can shop for your favourite products at Snapdeal even on the go using Snapdeal App. Available for both Android and Apple users, the app can be downloaded from Google Play Store and Apple App Store respectively. The app is quick, user-friendly, and enables shoppers buy products with a breeze. What's more, get timely notifications on your phone or tablet so that you don't miss amazing deals and offers. Download the app right now and experience how fun it is to shop on your mobile!
+					</p>
+				</div>
+		</div>
+		</div>
+	</div>
+	
+	<div class="footer-end">
+		<div class="footer-end1">
+			<div class="footer-end11">
+				<div class="left-end">
+					Copyright © 2019, Snapdeal Private Limited (formerly Jasper Infotech Private Limited). All Rights Reserved
+				</div>
+				<div class="right-end">
+					<p>
+						Made with
+						<i>
+							"\f08a"
+						</i>
+						in India
+					</p>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</footer>
